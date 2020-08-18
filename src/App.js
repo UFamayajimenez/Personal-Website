@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import Home from "./views/Home/Home";
 import NavBar from "./views/Navbar/Navbar";
+import Footer from "./views/Footer/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Home/>
         </Route>
       </Switch>
+      <Footer/>
   </Router>
   </div>
 );
