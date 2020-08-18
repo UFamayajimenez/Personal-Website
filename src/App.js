@@ -3,20 +3,22 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link} from "react-router-dom";
+} from "react-router-dom";
 import Home from "./views/Home/Home";
+import NavBar from "./views/Navbar/Navbar";
 
 function App() {
   return (
-    <Router>
     <div>
+    <Router>
+    <NavBar/>
       <Switch>
         <Route path="/">
-          <Home />
+          <Home/>
         </Route>
       </Switch>
-    </div>
   </Router>
+  </div>
 );
 }
 
