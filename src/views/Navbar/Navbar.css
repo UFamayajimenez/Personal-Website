@@ -5,3 +5,7 @@ background-color: #A8A38F;
 .nav-link {
 color: #F0ECDD !important;
 }
+
+.nav-stuff a {
+    color: #F0ECDD !important;
+}

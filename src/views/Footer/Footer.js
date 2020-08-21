@@ -6,6 +6,7 @@ import linkedin from './linkedin.png';
 
 const Footer = () => {
     return (
+        <body class="footer">
     <div id="footer">
         <div id="row">
             <div id="column">
@@ -33,6 +34,7 @@ const Footer = () => {
             </div>
         </div>
         </div>
+        </body>
     );
 }
 

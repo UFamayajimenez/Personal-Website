@@ -1,28 +1,28 @@
-#footer{
+.footer #footer{
     background-color: #443738;
-    height: 80px;
+    height: auto;
     color: #F0ECDD;
     font-size:10px;
 }
 
-#column {
+.footer #column {
     float: left;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
 }
 
-#row::after {
+.footer #row::after {
     content: "";
     clear: both;
     display: table;
 }
 
-#attribute{
+.footer #attribute{
     padding-top: 9px;
     padding-left: 10px;
 }
 
-a {
+.footer a {
     color: #91879F;
   }
