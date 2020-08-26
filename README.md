@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Personal-Website
+
+Welcome to the repository for my personal website! I spent a couple of weeks during the summer of 2020 to finally work on a personal website for myself. My personal website includes a home page and a projects page. The projects page includes a list of my favorite projects that I've worked on (both academic and personal).
+
+This website isn't published at the moment because it does not have support for mobile web. However, if you'd like to check out how it's looking right now, take a look at the gif below!
+
+This project really helped me get some more experience with fronted development and react. In the past, I've run into common frontend problems like page resizing, and I didn't know how to fix them. However, this project gave me the opportunity to develop a simple website that is robust across any webpage size.
+
+I am also really happy with the overall design of the website. I worked really hard to make sure that the color scheme and page layout was appealing. In the end, I think it looks great. It's really cool to see my design skills progress alongside my development skills.
+
+![](amaya-website-gif.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,4 +78,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Personal-Website
