@@ -5,6 +5,7 @@ import {
   Route,
 } from "react-router-dom";
 import Home from "./views/Home/Home";
+import Projects from "./views/Projects/Projects"
 import NavBar from "./views/Navbar/Navbar";
 import Footer from "./views/Footer/Footer";
 
@@ -14,8 +15,14 @@ function App() {
     <Router>
     <NavBar/>
       <Switch>
-        <Route path="/">
+        <Route path="/home">
           <Home/>
+        </Route>
+        <Route path="/projects">
+          <Projects/>
+        </Route>
+        <Route path="/">
+        <Home/>
         </Route>
       </Switch>
       <Footer/>

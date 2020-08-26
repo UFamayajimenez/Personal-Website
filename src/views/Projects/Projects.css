@@ -1,0 +1,50 @@
+.projectsPage #projects{
+    height: auto;
+    background-color: #F0ECDD;
+
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.projectsPage #content{
+    color:black;
+    font-size:20px;
+
+    padding-top: 2%;
+    
+}
+
+.projectsPage #project{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+}
+
+.projectsPage #project-description{
+    padding-top: 2%;
+    padding-right: 20%;
+}
+
+.projectsPage a {
+    color: #91879F;
+}
+
+
+.projectsPage h1{
+    color:#91879F;
+}
+.projectsPage h2{
+    color:#91879F;
+    text-align: left;
+}
+.projectsPage h3{
+    padding-left: 5%;
+    text-align: left;
+}
+
+.projectsPage img{
+    border: 2px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    
+}

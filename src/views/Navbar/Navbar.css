@@ -1,7 +1,11 @@
 .nav-custom {
-background-color: #F0ECDD;
+background-color: #A8A38F;
 }
 
 .nav-link {
-color: #443738 !important;
+color: #F0ECDD !important;
+}
+
+.nav-stuff a {
+    color: #F0ECDD !important;
 }
